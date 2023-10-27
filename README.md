@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaliaaryan
 - 👀 I’m interested in Programming/Coding
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m proficient in C++, Python, HTML, CSS and SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: kalia.aryan 
 
