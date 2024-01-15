@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaliaaryan
-- 👀 I’m interested in Machine Learning, Front End Development
+- 👀 I’m interested in Data Science, Machine Learning and Front End Development.
 - 🌱 I’m proficient in C++, Python, HTML, CSS, JavaScript and SQL
 - 💞️ I’m looking to collaborate on kalia.aryan17@gmail.com
 - 📫 How to reach me Instagram: kalia.aryan 
